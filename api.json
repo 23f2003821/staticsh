@@ -25,25 +25,11 @@
     { "id": "prod-bacf24e8-019", "name": "Basic Item 19", "category": "home", "price": 452.53, "stock": 150, "rating": 2.6 }
   ],
   "aggregations": {
-    "books": {
-      "count": 6,
-      "inventoryValue": 180388.93
-    },
-    "home": {
-      "count": 3,
-      "inventoryValue": 86889.06
-    },
-    "sports": {
-      "count": 6,
-      "inventoryValue": 184815.11
-    },
-    "clothing": {
-      "count": 1,
-      "inventoryValue": 73460.40
-    },
-    "electronics": {
-      "count": 3,
-      "inventoryValue": 186474.54
-    }
+    "books": { "count": 6, "inventoryValue": 180388.93 },
+    "home": { "count": 3, "inventoryValue": 86889.06 },
+    "sports": { "count": 6, "inventoryValue": 184713.03999999998 },
+    "clothing": { "count": 1, "inventoryValue": 73460.40 },
+    "electronics": { "count": 3, "inventoryValue": 186474.54 }
   }
 }
+
